@@ -50,6 +50,14 @@
     display: flex;
     margin-left: 770px;
     gap: 15px;
+    align-items: center;
+}
+.lov:hover{
+    transform: scale(1);
+    color: blue;
+}
+.true{
+    display: flex;
 }
 .false{
     margin-top: 50px;
@@ -59,11 +67,13 @@
     margin-top: 57px;
 }
 .goal{
-    margin-top: 57px;
-margin-left: 715px;
+    
 }
 .h1{
     margin-top: 57px;
+}
+.h11{
+
 }
 .lllllll7{
     margin-left: 157px;
@@ -84,6 +94,28 @@ margin-left: 715px;
 }
 .doffed{
     margin-top: 170px;
+    margin-left: 100px;
+}
+.mumkin{
+    text-align: center;
+    margin-top: 57px;
+}
+.shunchaki{
+margin-top: 95px;
+margin-left: 100px;
+}
+.barcha{
+    display: flex;
+}
+.yonma-yon{
+    display: flex;
+    gap: 10px;
+    margin-top: 93px;
+    margin-left: 100px;
+}
+.width{
+    width: 140;
+height: 300px;
 }
 .ars{
     margin-top: 17px;
@@ -94,10 +126,110 @@ margin-left: 715px;
 .h11{
     margin-top: 17px;
 }
+.olma{
+    background-color: royalblue;
+    width: 170px;
+    height: 50px;
+    text-align: center;
+}
+
+.bazi{
+    display:flex ;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
 .barchasi{
     display: flex;
     gap: 17px;
+    
 }
 .olma{
     width: 30px 17px 23px 37px;
 }
+.bazi{
+margin-top: 119px;
+margin-left: 100px;
+}
+.soz{
+    margin-left: 100px;
+}
+.blue{
+    background-color: royalblue;
+    width: 130px;
+    height: 50px;
+    margin-top: 50px;
+}
+.gap{
+    text-align: center;
+    margin-top: 100px;
+}
+.asosiy{
+    background-image: url(./get-in-touch.png);
+}
+.oppoq{
+    background-image: url(./bg\ copy.png);
+    width: 1520px;
+    height: 100px;
+    align-items: center;
+}
+.white{
+margin-left: 378px;
+color: white;
+ margin-top: 17px;
+}
+.dengiz{
+}
+.moviy{
+    color: white;
+    background-color: blue;
+    width: 130px;
+    height: 50px;
+}
+.texts{
+    color: black;
+}
+.oppoq{
+    display: flex;
+    justify-content: space-around;
+}
+.hamma{
+    background-image: url(./bg\ \(1\).png);
+    width: 1520px;
+    height: 240px;
+    color: white;
+}
+.class{
+    margin-left: 249px;
+    margin-top: 30px;
+}
+.tomon{
+    margin-top: 30px;
+}
+.tamom{
+    margin-top: 30px;
+}
+.tom{
+    margin-top: 30px;
+}
+.tomn{
+    margin-top: 30px;
+}
+.tam{
+    margin-top: 30px;
+}
+
+ .hamma{
+    display: flex;
+    gap: 30px;
+ }
+ .oldingi{
+    text-align: center;
+    background-color: #171819;
+    color: white;
+    width: 100%;
+    height: 30px;
+ }
+ .ortada{
+    align-items: center;
+ }
